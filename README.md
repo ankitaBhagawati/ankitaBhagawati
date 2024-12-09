@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitaBhagawati
+- 👋 Hi, I’m Ankita Bhagawati
 - 🌱 Expertise in .NET, Angular, JavaScript, JQuery, DevExpress and SQL
 - 📫 How to reach me on my mail ID: ankitabhagawati21@gmail.com
 
