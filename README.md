@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ankitaBhagawati
-- 👀 I’m interested in Web Developmemt 
-- 🌱 I’m currently learning .Net Core
-- 📫 How to reach me on my mail ID: ankitabhagawati16@gmail.com
+- 🌱 Expertise in .NET, Angular, JavaScript, JQuery, DevExpress and SQL
+- 📫 How to reach me on my mail ID: ankitabhagawati21@gmail.com
 
 <!---
 ankitaBhagawati/ankitaBhagawati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
